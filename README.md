@@ -1,17 +1,7 @@
-<h1>
-  Olá eu sou Yuri Suhett,
-  <br>Desenvolvedor de Software e GameDev
-</h1>
 
-<div style="display: inline_block">
- <img align="center" alt="Rafa-pic" height="150" style="border-radius:100px;"        src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+###  Olá eu sou Yuri Suhett, Desenvolvedor de Software e GameDev 👋
 
- <ul>
-  <li>🔭 Trabalhando com back-end</li>
-  <li>🌱 Estudando GML</li>
-  <li>😄 Pronomes: ele/dele</li>
- </ul>
-</div>
+
 
 <div align="center">
   <a href="https://github.com/yurisuhett">
