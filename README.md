@@ -1,5 +1,5 @@
 
-<h1>Olá eu sou Yuri Suhett<br>Desenvolvedor de Software e GameDev 👋<h1>
+<h2>Olá eu sou Yuri Suhett👋<br>Desenvolvedor de Software e GameDev 👾<h2>
 
 
 
